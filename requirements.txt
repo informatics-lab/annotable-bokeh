@@ -140,7 +140,7 @@ pandoc=2.7.2=0
 pandocfilters=1.4.2=py_1
 panel=0.4.0=py_0
 param=1.9.0=py_0
-parso=0.4.0=py_0
+parso
 partd=0.3.9=py_0
 pcre=8.43=he6710b0_0
 pexpect=4.7.0=py36_0
